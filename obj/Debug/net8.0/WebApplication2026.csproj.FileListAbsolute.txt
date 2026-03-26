@@ -1,0 +1,66 @@
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\appsettings.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.staticwebassets.runtime.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.staticwebassets.endpoints.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.exe
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.deps.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.runtimeconfig.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.dll
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.pdb
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.AssemblyInfoInputs.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.AssemblyInfo.cs
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.csproj.CoreCompileInputs.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.RazorAssemblyInfo.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.RazorAssemblyInfo.cs
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.sourcelink.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\bundle\WebApplication2026.styles.css
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication2026.bundle.scp.css
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.dll
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\refint\WebApplication2026.dll
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.pdb
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.genruntimeconfig.cache
+C:\Users\SUITE.DESKTOP-6R06Q96\Desktop\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\ref\WebApplication2026.dll
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\appsettings.Development.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\appsettings.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.staticwebassets.runtime.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.exe
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.deps.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.runtimeconfig.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.dll
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\bin\Debug\net8.0\WebApplication2026.pdb
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.AssemblyInfoInputs.cache
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.AssemblyInfo.cs
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.csproj.CoreCompileInputs.cache
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.MvcApplicationPartsAssemblyInfo.cache
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.RazorAssemblyInfo.cache
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.RazorAssemblyInfo.cs
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.sourcelink.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.build.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.development.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2026.Microsoft.AspNetCore.StaticWebAssets.props
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2026.props
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2026.props
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2026.props
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\staticwebassets.pack.json
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\bundle\WebApplication2026.styles.css
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication2026.bundle.scp.css
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.dll
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\refint\WebApplication2026.dll
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.pdb
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\WebApplication2026.genruntimeconfig.cache
+D:\USUARIO\Documents\CARRERA\6 Ciclo\Desarrollo Servicios Web 1\SlnWebApplication2026\WebApplication2026\obj\Debug\net8.0\ref\WebApplication2026.dll

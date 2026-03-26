@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\vehiculo\\vehiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\vehiculo\\vehiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\compra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\compra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\consesionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\consesionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\cotizaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\cotizaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\evaluaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\evaluaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|d:\\usuario\\documents\\carrera\\6 ciclo\\desarrollo servicios web 1\\slnwebapplication2026\\webapplication2026\\views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C810E9-8353-4D62-91CB-C872F724FBAD}|WebApplication2026.csproj|solutionrelative:views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Servicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicio\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Servicio\\Index.cshtml",
+              "RelativeToolTip": "Views\\Servicio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:16:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Evaluaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evaluaciones\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Evaluaciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Evaluaciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:16:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Cotizaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cotizaciones\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Cotizaciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cotizaciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:15:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Consesionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consesionario\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Consesionario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Consesionario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:15:32.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Compra\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Compra\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Compra\\Index.cshtml",
+              "RelativeToolTip": "Views\\Compra\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:14:36.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculo\\Index.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehiculo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:14:26.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompraController.cs",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:07:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cshtml",
+              "DocumentMoniker": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Vehiculo\\Vehiculo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculo\\Vehiculo.cshtml",
+              "ToolTip": "D:\\USUARIO\\Documents\\CARRERA\\6 Ciclo\\Desarrollo Servicios Web 1\\SlnWebApplication2026\\WebApplication2026\\Views\\Vehiculo\\Vehiculo.cshtml",
+              "RelativeToolTip": "Views\\Vehiculo\\Vehiculo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:07:43.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
